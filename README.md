@@ -1,4 +1,4 @@
-# Object-Oriented Programming (OOP) Lab 06 Tasks
+# Object-Oriented Programming (OOP) Lab 05 Tasks
 
 ### 👤 Student Information
 * **Name:** Moazamuddin
@@ -9,12 +9,12 @@
 ---
 
 ## 📂 Repository Overview
-This repository contains all the lab 06 tasks and assignments for the OOP Course.
+This repository contains all the lab 05 tasks and assignments for the OOP Course.
 
 ### 📊 Lab Task Tracker
 | Week | Topic | Status |
 | :--- | :--- | :--- |
-| Lab 06 | Graded Task (Deep Copy & DMA) | ✅ Completed |
+| Lab 05 | Graded Task (Deep Copy & DMA) | ✅ Completed |
 ---
 
 ## 🛠️ Tools Used
